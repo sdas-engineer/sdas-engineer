@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sdas-engineer
-- 👀 I’m interested in blockchain, crypto, creator economy, startups, & data
-- 🌱 I’m currently learning solidity, react, & Next.js
-- 💞️ I’m looking to collaborate on solidity projects, & growth hacks for startups
+- 👀 I’m interested in blockchain, crypto, AI & self-driving cars
+- 🌱 I’m currently learning solidity, react, & building smart contracts
+- 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me hi@sidharthdas.com
 
 <!---
