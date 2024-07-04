@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sdas-engineer
-- 👀 I’m interested in blockchain, crypto, AI & self-driving cars
-- 🌱 I’m currently learning solidity, react, & building smart contracts
-- 💞️ I’m looking to collaborate on web3 projects
+- 👋 Hi, I’m Sid
+- 👀 I’m interested in AI & Automation
+- 🌱 I’m currently learning Python, pandas, NumPy, Matplotlib and LLM in that order
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me hi@sidharthdas.com
 
 <!---
